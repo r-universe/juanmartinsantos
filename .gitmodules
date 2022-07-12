@@ -3,9 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "regfilter"]
-	path = regfilter
-	url = https://github.com/juanmartinsantos/regfilter
-	shallow = true
-	subdir = pkg/regfilter
-	registered = true
