@@ -6,3 +6,6 @@
 	path = regfilter
 	url = https://github.com/juanmartinsantos/regfilter
 	subdir = pkg/regfilter
+[submodule "rgnoisefilt"]
+	path = rgnoisefilt
+	url = https://github.com/cran/rgnoisefilt
