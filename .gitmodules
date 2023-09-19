@@ -8,4 +8,5 @@
 	subdir = pkg/regfilter
 [submodule "rgnoisefilt"]
 	path = rgnoisefilt
-	url = https://github.com/cran/rgnoisefilt
+	url = https://github.com/juanmartinsantos/rgnoisefilt
+	subdir = pkg/rgnoisefilt
